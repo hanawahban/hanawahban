@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi!! I'm Hana Wahban
 
-<!--
-**hanawahban/hanawahban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate focused on AI engineering, NLP, computer vision, and cloud-native intelligent systems.
 
-Here are some ideas to get you started:
+## Featured AI Projects
+- Arabic Dialect Detection — NLP classifier for Arabic dialects
+- Edge AI Obstacle Detection — YOLO + depth estimation on Jetson/phone camera
+- SmartCool HEMS — ML-based energy forecasting and A/C optimization
+- Cloud Vehicle Access System — license plate recognition with cloud backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python, PyTorch, scikit-learn, OpenCV, YOLO, NLP, Azure, Firebase, React, SQL
+
+## Currently Learning
+Transformers, Hugging Face, LLM applications, RAG, MLOps
