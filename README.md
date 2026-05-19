@@ -1,6 +1,6 @@
 # Hi!! I'm Hana Wahban
 
-Computer Science undergraduate focused on AI engineering, NLP, computer vision, and cloud-native intelligent systems.
+Computer Science undergraduate focused on AI engineering, NLP, computer vision, and software development.
 
 ## Featured Projects
 - Arabic Dialect Detection: NLP classifier for Arabic dialects
