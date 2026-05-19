@@ -1,4 +1,4 @@
-# Hi!! I'm Hana Wahban
+# Hi!! I'm Hana Wahban 💻 👩🏻‍🦱
 
 Computer Science undergraduate focused on AI engineering, NLP, computer vision, and cloud-native intelligent systems.
 
