@@ -9,7 +9,5 @@ Computer Science undergraduate focused on AI engineering, NLP, computer vision, 
 - ReWear: Secondhand clothing marketplace
 
 ## Tech Stack
-Python, PyTorch, scikit-learn, OpenCV, YOLO, NLP, Azure, Firebase, React, SQL
+Python, PyTorch, scikit-learn, OpenCV, YOLO, NLP, Azure, Firebase, React
 
-## Currently Learning
-Transformers, Hugging Face, LLM applications, RAG, MLOps
